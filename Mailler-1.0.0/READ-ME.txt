@@ -1,0 +1,50 @@
+  =>  Template Name    : Mailler - SaaS Website Template
+
+  =>  Template Link    : https://htmlcodex.com/saas-website-template
+
+  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : HTML Codex
+
+  =>  Author Website   : https://htmlcodex.com
+
+Key Features
+Bootstrap 5.0.0
+HTML5 & CSS3
+Sliders
+404 Page
+Search Filter
+Hero Image
+FAQ Section
+Blog Section
+Breadcrumbs
+Geolocation
+On-Hover Effect
+Detailed Footer
+Contact Form UI
+100% Responsive
+Multipage Design
+On-Load Animation
+Dropdown Menu Bar
+Testimonial Section
+Back-to-Top Button
+Call-to-Action Buttons
+Sass-supported Codebase
+Multipurpose Design
+Sticky Top Navigation Bar
+Cross-Browser Compatible
+ 
+
+In The Box
+9+ HTML Page
+HTML & CSS
+All Demo Pages
+Javascript Source Files
+Library & Plugins
+ 
+
+Library & Plugins
+Bootstrap 5
+jQuery
+Google Fonts
+Google Maps
